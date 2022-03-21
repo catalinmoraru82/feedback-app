@@ -3,5 +3,5 @@
 ## Technologies used:
 
 - React
-- Hooks
+- Hooks (useState)
 - CSS
