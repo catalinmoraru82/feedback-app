@@ -4,9 +4,9 @@ function Header({text, bgColor, textColor}) {
 
     const headerStyle = {
         backgroundColor: bgColor,
-        color: textColor
+        color: textColor,
     }
-
+ 
     return (
         <header style={headerStyle}>
             <div className="container">
