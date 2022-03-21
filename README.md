@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Udemy course project where I build a feedback app using React
+
+## Technologies used:
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
