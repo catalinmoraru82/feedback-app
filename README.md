@@ -1,4 +1,4 @@
-# Udemy course project where I build a feedback app using React
+# Udemy course project where I build an feedback app using React
 
 ## Technologies used:
 
